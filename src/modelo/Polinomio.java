@@ -35,8 +35,8 @@ public class Polinomio {
 	 */
 	private double im[];//raices complejas
 	
-	int cont=0;
-	int cont2=0;
+	private int cont=0;
+	private int cont2=0;
 /**
  * This is the class Polynomuyal
  * pre: coeffcientN is different of null

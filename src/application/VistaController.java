@@ -28,6 +28,8 @@ public class VistaController {
 	private Button calculate;
 	@FXML
 	private Button btnAleatorio;
+	@FXML
+	private Label poli;
 	
 
 	private  Main m;
